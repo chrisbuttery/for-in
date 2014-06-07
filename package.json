@@ -1,0 +1,20 @@
+{
+  "name": "for-in",
+  "version": "0.0.1",
+  "description": "Iterate an object",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kewah/for-in.git"
+  },
+  "keywords": [
+    "forIn",
+    "object",
+    "iterator"
+  ],
+  "dependencies": {},
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "license": "MIT"
+}
